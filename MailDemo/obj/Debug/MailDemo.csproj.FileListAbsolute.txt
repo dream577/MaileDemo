@@ -1,0 +1,11 @@
+E:\studydate\大三\计算机网络应用设计\邮件\MailDemo\MailDemo\bin\Debug\MailDemo.exe.config
+E:\studydate\大三\计算机网络应用设计\邮件\MailDemo\MailDemo\bin\Debug\MailDemo.exe
+E:\studydate\大三\计算机网络应用设计\邮件\MailDemo\MailDemo\bin\Debug\MailDemo.pdb
+E:\studydate\大三\计算机网络应用设计\邮件\MailDemo\MailDemo\obj\Debug\MailDemo.csprojAssemblyReference.cache
+E:\studydate\大三\计算机网络应用设计\邮件\MailDemo\MailDemo\obj\Debug\MailDemo.Properties.Resources.resources
+E:\studydate\大三\计算机网络应用设计\邮件\MailDemo\MailDemo\obj\Debug\MailDemo.SendMail.resources
+E:\studydate\大三\计算机网络应用设计\邮件\MailDemo\MailDemo\obj\Debug\MailDemo.csproj.GenerateResource.cache
+E:\studydate\大三\计算机网络应用设计\邮件\MailDemo\MailDemo\obj\Debug\MailDemo.exe
+E:\studydate\大三\计算机网络应用设计\邮件\MailDemo\MailDemo\obj\Debug\MailDemo.pdb
+E:\studydate\大三\计算机网络应用设计\邮件\MailDemo\MailDemo\obj\Debug\MailDemo.ReceiveMail.resources
+E:\studydate\大三\计算机网络应用设计\邮件\MailDemo\MailDemo\obj\Debug\MailDemo.Menu.resources
